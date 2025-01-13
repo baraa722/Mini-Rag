@@ -4,7 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c2d8ee6-7700-4d19-a05d-523a3ddf4219" name="Changes" comment="" />
+    <list default="true" id="0c2d8ee6-7700-4d19-a05d-523a3ddf4219" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/.env_example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/.getignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controllers/BaseController.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controllers/DataController.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controllers/ProjectController.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controllers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/enums/ResponseEnums.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/enums/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/mini-rag.postman_collection.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/mini-rag.postman_collection.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/.env_example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/routes/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/routes/base.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +63,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "architecture-to-boiler-plate-structure",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Asus/Documents/GitHub/Mini-Rag/assets",
+    "last_opened_file_path": "C:/Users/Asus/Documents/GitHub/Mini-Rag/src/assets",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -50,8 +75,12 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\Documents\GitHub\Mini-Rag\src\assets" />
       <recent name="C:\Users\Asus\Documents\GitHub\Mini-Rag\assets" />
       <recent name="C:\Users\Asus\Documents\GitHub\Mini-Rag" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\Documents\GitHub\Mini-Rag\source" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -67,7 +96,9 @@
       <workItem from="1735744109104" duration="646000" />
       <workItem from="1736190512687" duration="1881000" />
       <workItem from="1736251149206" duration="354000" />
-      <workItem from="1736341755508" duration="647000" />
+      <workItem from="1736341755508" duration="4251000" />
+      <workItem from="1736769569779" duration="9177000" />
+      <workItem from="1736784901197" duration="4846000" />
     </task>
     <servers />
   </component>
