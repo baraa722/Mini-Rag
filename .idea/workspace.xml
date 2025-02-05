@@ -5,30 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c2d8ee6-7700-4d19-a05d-523a3ddf4219" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/.env_example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/.getignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controllers/BaseController.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controllers/DataController.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controllers/ProjectController.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controllers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helpers/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/enums/ResponseEnums.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/enums/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes/base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes/data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/.gitkeep" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/mini-rag.postman_collection.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/mini-rag.postman_collection.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/.env_example" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/routes/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/routes/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/DataController.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/DataController.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/data.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,23 +35,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "architecture-to-boiler-plate-structure",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Asus/Documents/GitHub/Mini-Rag/src/assets",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;architecture-to-boiler-plate-structure&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Asus/Documents/GitHub/Mini-Rag/src/assets&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Asus\Documents\GitHub\Mini-Rag\src\assets" />
@@ -98,7 +77,9 @@
       <workItem from="1736251149206" duration="354000" />
       <workItem from="1736341755508" duration="4251000" />
       <workItem from="1736769569779" duration="9177000" />
-      <workItem from="1736784901197" duration="4846000" />
+      <workItem from="1736784901197" duration="4986000" />
+      <workItem from="1736840943716" duration="7000" />
+      <workItem from="1738742152902" duration="1170000" />
     </task>
     <servers />
   </component>
