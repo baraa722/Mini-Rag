@@ -7,3 +7,5 @@ class ResponseMessage(Enum):
     FILE_UPLOAD_SUCCEEDED = "file was uploaded successfully"
     FILE_UPLOAD_FAILED = "failed to upload the file"
     FILE_VALIDATION_SUCCEEDED = "file validation was successful"
+    PROCESSING_FAILED = "processing failed"
+    PROCESSING_SUCCEEDED = "processing done successfully"

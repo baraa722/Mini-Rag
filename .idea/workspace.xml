@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c2d8ee6-7700-4d19-a05d-523a3ddf4219" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/controllers/ProcessContoller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/enums/Processing_Enum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/schemas/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/schemas/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Mini-Rag.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Mini-Rag.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controllers/DataController.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/DataController.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.env_example" beforeDir="false" afterPath="$PROJECT_DIR$/src/.env_example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/enums/ResponseEnums.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/enums/ResponseEnums.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/routes/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/data.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,9 +50,9 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;architecture-to-boiler-plate-structure&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;file__processing__logic&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Asus/Documents/GitHub/Mini-Rag/src/assets&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ASUS/Documents/GitHub/Mini-Rag&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -80,6 +90,11 @@
       <workItem from="1736784901197" duration="4986000" />
       <workItem from="1736840943716" duration="7000" />
       <workItem from="1738742152902" duration="1170000" />
+      <workItem from="1741955210463" duration="912000" />
+      <workItem from="1741956142110" duration="2785000" />
+      <workItem from="1742037499150" duration="9447000" />
+      <workItem from="1742129238933" duration="237000" />
+      <workItem from="1742130465505" duration="7228000" />
     </task>
     <servers />
   </component>
